@@ -1,2 +1,2 @@
-Projeto de aula se uma escola utilizando Django e APIs Rest<br>
+Projeto de aula de uma escola utilizando Django e APIs Rest<br>
 Aula Alura
